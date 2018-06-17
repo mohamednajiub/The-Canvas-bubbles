@@ -1,7 +1,9 @@
 # The Canvas bubbles
 this is the practice on canvas how to draw the canvas and resize it then how to draw elements and styling it then how to animate it and interact with each element in our canvas.
 
-here is the ![image](Capture.png).
+here is the image ![image](Capture.png). 
+
+Or you can try [Demo](https://muhammedemad.github.io/The-Canvas-bubbles/).
 
 ### How I made it!?
 I follow this [tutorial](https://www.youtube.com/watch?v=vxljFhP2krI&list=PLpPnRKq7eNW3We9VdCfx9fprhqXHwTPXL&index=4) to make this project.
